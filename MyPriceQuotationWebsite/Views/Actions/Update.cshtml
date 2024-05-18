@@ -1,0 +1,38 @@
+﻿@model List<QuotationModel>
+@{
+    ViewData["Title"] = "Quotation listing";
+}
+
+<h1 class="display-4"> Quotation listing </h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col"> Currency </th>
+            <th scope="col"> Symbol </th>
+            <th scope="col"> Value </th>
+            <th scope ="col"> Actions </th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (QuotationModel quotation in Model)
+            {
+                <tr>
+                    <th scope="row">@quotation.Id</th>
+                    <td>@quotation.Currency</td>
+                    <td>@quotation.Symbol</td>
+                    <td>@quotation.Value</td>
+                    <td>
+                        <div class="btn-group" role="group">
+                            <a role="button" class="btn btn-primary" asp-route-id="@quotation.Id" asp-controller="Actions" asp-action="Updating">Edit</a>
+                            <a role="button" class="btn btn-danger" asp-route-id="@quotation.Id" asp-controller="Actions" asp-action="DeleteConfirmation">Delete</a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

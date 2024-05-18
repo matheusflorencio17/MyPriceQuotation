@@ -1,0 +1,33 @@
+﻿@model List<QuotationModel>
+
+@{
+    ViewData["Title"] = "Quotation listing";
+}
+
+<h1 class="display-4"> Quotation listing </h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col"> Currency </th>
+            <th scope="col"> Symbol </th>
+            <th scope="col"> Value </th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (QuotationModel quotation in Model)
+            {
+                <tr>
+                    <th scope="row">@quotation.Id</th>
+                    <td>@quotation.Currency</td>
+                    <td>@quotation.Symbol</td>
+                    <td>@quotation.Value</td>
+                    
+                </tr>
+            }
+        }
+    </tbody>
+</table>

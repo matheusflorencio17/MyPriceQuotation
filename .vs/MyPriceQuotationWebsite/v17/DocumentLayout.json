@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|c:\\users\\te-te\\source\\repos\\mypricequotationwebsite\\mypricequotationwebsite\\controllers\\actionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|solutionrelative:mypricequotationwebsite\\controllers\\actionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|c:\\users\\te-te\\source\\repos\\mypricequotationwebsite\\mypricequotationwebsite\\views\\actions\\deleteconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|solutionrelative:mypricequotationwebsite\\views\\actions\\deleteconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|c:\\users\\te-te\\source\\repos\\mypricequotationwebsite\\mypricequotationwebsite\\repository\\iquotationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|solutionrelative:mypricequotationwebsite\\repository\\iquotationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|c:\\users\\te-te\\source\\repos\\mypricequotationwebsite\\mypricequotationwebsite\\repository\\quotationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|solutionrelative:mypricequotationwebsite\\repository\\quotationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|c:\\users\\te-te\\source\\repos\\mypricequotationwebsite\\mypricequotationwebsite\\views\\actions\\include.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|solutionrelative:mypricequotationwebsite\\views\\actions\\include.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|c:\\users\\te-te\\source\\repos\\mypricequotationwebsite\\mypricequotationwebsite\\models\\quotationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|solutionrelative:mypricequotationwebsite\\models\\quotationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|c:\\users\\te-te\\source\\repos\\mypricequotationwebsite\\mypricequotationwebsite\\controllers\\quotationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|solutionrelative:mypricequotationwebsite\\controllers\\quotationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|c:\\users\\te-te\\source\\repos\\mypricequotationwebsite\\mypricequotationwebsite\\views\\actions\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|solutionrelative:mypricequotationwebsite\\views\\actions\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|c:\\users\\te-te\\source\\repos\\mypricequotationwebsite\\mypricequotationwebsite\\views\\actions\\updating.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|solutionrelative:mypricequotationwebsite\\views\\actions\\updating.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|c:\\users\\te-te\\source\\repos\\mypricequotationwebsite\\mypricequotationwebsite\\views\\quotation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|solutionrelative:mypricequotationwebsite\\views\\quotation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|c:\\users\\te-te\\source\\repos\\mypricequotationwebsite\\mypricequotationwebsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|solutionrelative:mypricequotationwebsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|c:\\users\\te-te\\source\\repos\\mypricequotationwebsite\\mypricequotationwebsite\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|solutionrelative:mypricequotationwebsite\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|c:\\users\\te-te\\source\\repos\\mypricequotationwebsite\\mypricequotationwebsite\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|solutionrelative:mypricequotationwebsite\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|c:\\users\\te-te\\source\\repos\\mypricequotationwebsite\\mypricequotationwebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|solutionrelative:mypricequotationwebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|c:\\users\\te-te\\source\\repos\\mypricequotationwebsite\\mypricequotationwebsite\\mypricequotationwebsite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|solutionrelative:mypricequotationwebsite\\mypricequotationwebsite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|c:\\users\\te-te\\source\\repos\\mypricequotationwebsite\\mypricequotationwebsite\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|solutionrelative:mypricequotationwebsite\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|c:\\users\\te-te\\source\\repos\\mypricequotationwebsite\\mypricequotationwebsite\\migrations\\20240518030735_criatedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|solutionrelative:mypricequotationwebsite\\migrations\\20240518030735_criatedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|c:\\users\\te-te\\source\\repos\\mypricequotationwebsite\\mypricequotationwebsite\\migrations\\20240517201948_criacaodobanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CC0115-A7C5-45E2-941E-8FA1B6E2B39E}|MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj|solutionrelative:mypricequotationwebsite\\migrations\\20240517201948_criacaodobanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Views\\Quotation\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyPriceQuotationWebsite\\Views\\Quotation\\Index.cshtml",
+              "ToolTip": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Views\\Quotation\\Index.cshtml",
+              "RelativeToolTip": "MyPriceQuotationWebsite\\Views\\Quotation\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T21:02:12.281Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Views\\Actions\\DeleteConfirmation.cshtml",
+              "RelativeDocumentMoniker": "MyPriceQuotationWebsite\\Views\\Actions\\DeleteConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Views\\Actions\\DeleteConfirmation.cshtml",
+              "RelativeToolTip": "MyPriceQuotationWebsite\\Views\\Actions\\DeleteConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T04:57:25.109Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActionsController.cs",
+              "DocumentMoniker": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Controllers\\ActionsController.cs",
+              "RelativeDocumentMoniker": "MyPriceQuotationWebsite\\Controllers\\ActionsController.cs",
+              "ToolTip": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Controllers\\ActionsController.cs",
+              "RelativeToolTip": "MyPriceQuotationWebsite\\Controllers\\ActionsController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAEwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T03:11:04.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IQuotationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Repository\\IQuotationRepository.cs",
+              "RelativeDocumentMoniker": "MyPriceQuotationWebsite\\Repository\\IQuotationRepository.cs",
+              "ToolTip": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Repository\\IQuotationRepository.cs",
+              "RelativeToolTip": "MyPriceQuotationWebsite\\Repository\\IQuotationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T20:32:54.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuotationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Repository\\QuotationRepository.cs",
+              "RelativeDocumentMoniker": "MyPriceQuotationWebsite\\Repository\\QuotationRepository.cs",
+              "ToolTip": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Repository\\QuotationRepository.cs",
+              "RelativeToolTip": "MyPriceQuotationWebsite\\Repository\\QuotationRepository.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAAD0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T20:32:14.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Include.cshtml",
+              "DocumentMoniker": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Views\\Actions\\Include.cshtml",
+              "RelativeDocumentMoniker": "MyPriceQuotationWebsite\\Views\\Actions\\Include.cshtml",
+              "ToolTip": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Views\\Actions\\Include.cshtml",
+              "RelativeToolTip": "MyPriceQuotationWebsite\\Views\\Actions\\Include.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T20:47:36.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuotationModel.cs",
+              "DocumentMoniker": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Models\\QuotationModel.cs",
+              "RelativeDocumentMoniker": "MyPriceQuotationWebsite\\Models\\QuotationModel.cs",
+              "ToolTip": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Models\\QuotationModel.cs",
+              "RelativeToolTip": "MyPriceQuotationWebsite\\Models\\QuotationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T03:03:15.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuotationController.cs",
+              "DocumentMoniker": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Controllers\\QuotationController.cs",
+              "RelativeDocumentMoniker": "MyPriceQuotationWebsite\\Controllers\\QuotationController.cs",
+              "ToolTip": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Controllers\\QuotationController.cs",
+              "RelativeToolTip": "MyPriceQuotationWebsite\\Controllers\\QuotationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T20:27:54.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Views\\Actions\\Update.cshtml",
+              "RelativeDocumentMoniker": "MyPriceQuotationWebsite\\Views\\Actions\\Update.cshtml",
+              "ToolTip": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Views\\Actions\\Update.cshtml",
+              "RelativeToolTip": "MyPriceQuotationWebsite\\Views\\Actions\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T21:06:45.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Updating.cshtml",
+              "DocumentMoniker": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Views\\Actions\\Updating.cshtml",
+              "RelativeDocumentMoniker": "MyPriceQuotationWebsite\\Views\\Actions\\Updating.cshtml",
+              "ToolTip": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Views\\Actions\\Updating.cshtml",
+              "RelativeToolTip": "MyPriceQuotationWebsite\\Views\\Actions\\Updating.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T21:10:49.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\appsettings.json",
+              "RelativeDocumentMoniker": "MyPriceQuotationWebsite\\appsettings.json",
+              "ToolTip": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\appsettings.json",
+              "RelativeToolTip": "MyPriceQuotationWebsite\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T20:08:06.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MyPriceQuotationWebsite\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MyPriceQuotationWebsite\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T20:28:13.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240518030735_CriateDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Migrations\\20240518030735_CriateDataBase.cs",
+              "RelativeDocumentMoniker": "MyPriceQuotationWebsite\\Migrations\\20240518030735_CriateDataBase.cs",
+              "ToolTip": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Migrations\\20240518030735_CriateDataBase.cs",
+              "RelativeToolTip": "MyPriceQuotationWebsite\\Migrations\\20240518030735_CriateDataBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T03:07:36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MyPriceQuotationWebsite\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MyPriceQuotationWebsite\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T20:12:02.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyPriceQuotationWebsite\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyPriceQuotationWebsite\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T20:27:55.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MyPriceQuotationWebsite.csproj",
+              "DocumentMoniker": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj",
+              "RelativeDocumentMoniker": "MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj",
+              "ToolTip": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj",
+              "RelativeToolTip": "MyPriceQuotationWebsite\\MyPriceQuotationWebsite.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-17T20:31:21.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyPriceQuotationWebsite\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyPriceQuotationWebsite\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T20:28:07.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240517201948_CriacaoDoBanco.cs",
+              "DocumentMoniker": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Migrations\\20240517201948_CriacaoDoBanco.cs",
+              "RelativeDocumentMoniker": "MyPriceQuotationWebsite\\Migrations\\20240517201948_CriacaoDoBanco.cs",
+              "ToolTip": "C:\\Users\\te-te\\source\\repos\\MyPriceQuotationWebsite\\MyPriceQuotationWebsite\\Migrations\\20240517201948_CriacaoDoBanco.cs",
+              "RelativeToolTip": "MyPriceQuotationWebsite\\Migrations\\20240517201948_CriacaoDoBanco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T20:19:49.193Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

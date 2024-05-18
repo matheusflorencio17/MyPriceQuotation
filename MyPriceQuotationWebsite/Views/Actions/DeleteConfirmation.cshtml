@@ -1,0 +1,10 @@
+﻿@model QuotationModel;
+@{
+    ViewData["Title"] = " Confirmation of deleting the quote ";
+}
+<div class="text-center">
+    <h3 class="display-4"> Do you really want to delete the quote ? </h3>
+</div>
+
+<a class="btn btn-primary" role="button" asp-controller="Quotation" asp-action="Index">Cancel deletion</a>
+<a class ="btn btn-danger" role="button" asp-controller="Actions" asp-action="Delete" asp-route-id="@Model.Id" role="button">Confirm deletion</a>

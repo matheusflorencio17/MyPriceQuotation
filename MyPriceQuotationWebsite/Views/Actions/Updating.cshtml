@@ -1,0 +1,34 @@
+﻿@model QuotationModel
+@{
+    ViewData["Title"] = "Updating the quote";
+}
+<div class="text-center">
+
+    <h1 class="display-4"> Updating the quote </h1>
+
+</div>
+
+
+<form asp-controller="Actions" asp-action="Updating" method="post">
+
+    <input type="hidden" asp-for="Id" />
+
+    <div class="form-group">
+        <label for="currency"> Currency </label>
+        <input type="text" asp-for="Currency" class="form-control" placeholder="Insert currency">
+    </div>
+
+    <div class="form-group">
+        <label for="symbol"> Symbol </label>
+        <input type="text" asp-for="Symbol" class="form-control" placeholder="Insert symbol">
+    </div>
+
+    <div class="form-group">
+        <label for="value"> Value </label>
+        <input type="text" asp-for="Value" class="form-control" placeholder="Insert value">
+    </div>
+
+    <button type="submit" class="btn btn-primary">Update</button>
+    <a class="btn btn-secondary" asp-controller="Home" asp-action="Index" role="button"> Back to Home</a>
+</form>
+
